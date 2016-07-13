@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+	<feature url="features/de.reneploetz.eclipse.tools.m2e.protoc-connector-feature_1.0.0.jar" id="de.reneploetz.eclipse.tools.m2e.protoc-connector-feature" version="1.0.0">
+		<category name="m2e-protoc-connector"/>
+	</feature>
+	<category-def name="m2e-protoc-connector" label="Maven m2e connector for protoc"/>
+</site>
